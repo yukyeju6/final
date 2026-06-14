@@ -1,0 +1,6 @@
+{
+  "name": "인간 도감",
+  "description": "사람들의 특징과 능력치를 기록하고 분류하는 나만의 인간 도감 서비스입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
